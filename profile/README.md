@@ -3,8 +3,8 @@
 This is the GitHub organisation of the 3DBAG Innovation Platform.
 This place is used for collaborating on the software that used for producing the [3DBAG dataset](https://3dbag.nl), for organising the 3DBAG development and communicating with the 3DBAG users and contributors.
 
-The main platform for communication is the [Zulip chat](https://3dbag.zulipchat.com).
-If you have any questions or comments about the 3DBAG in general, about a specific software or you spotted an error, please review first if you question has been answered already. If not, don't hesitate to open a new discussion.
+The main communication platform 3DBAG community is the [Zulip 3DBAG chat](https://3dbag.zulipchat.com).
+If you have any questions or comments about the 3DBAG in general, about a specific software or you spotted an error, please review first if you question has been answered already. If not, don't hesitate to comment. You can also use the Issues pages of the repositories below to report bugs.
 
 The software that you will find in this organisation:
 - [3dbag-api](https://github.com/3DBAG/3dbag-api): OGC Features API that serves the 3DBAG CityJSON data at https://api.3dbag.nl/
