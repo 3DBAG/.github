@@ -1,6 +1,6 @@
 # [3DBAG](https://3dbag.nl)
 
-This is the GitHub organisation of the 3DBAG Innovation Platform.
+This is the GitHub organisation of the [3DBAG Innovationplatform](https://innovation.3dbag.nl).
 This place is used for collaborating on the software that used for producing the [3DBAG dataset](https://3dbag.nl), for organising the 3DBAG development and communicating with the 3DBAG users and contributors.
 
 The main communication platform for the 3DBAG developer community is the [Zulip 3DBAG chat](https://3dbag.zulipchat.com).
