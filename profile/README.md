@@ -11,6 +11,7 @@ The software that you will find in this organisation:
 - [3dbag-dashboard](https://github.com/3DBAG/3dbag-dasboard): Quality dashboard for the 3DBAG at https://3dbag.nl/en/dashboard
 - [3dbag-docs](https://github.com/3DBAG/3dbag-docs): The 3DBAG documentation at https://docs.3dbag.nl/en/
 - [3dbag-pipeline](https://github.com/3DBAG/3dbag-pipeline): Production pipeline that orchestrates source data ingestion, preprocessing, building reconstruction, postprocessing and deployment
+- [3dbag-specs](https://github.com/3DBAG/3dbag-specs): The 3DBAG specifications
 - [3dbag-viewer](https://github.com/3DBAG/3dbag-viewer): The 3D viewer at https://3dbag.nl/en/viewer
 - [CityBuf](https://github.com/3DBAG/CityBuf): Experimental CityJSON encoding as FlatBuffers
 - [geodepot](https://github.com/3DBAG/geodepot): Test data management system for geodata
